@@ -1,0 +1,11 @@
+{
+  "name": "font-zip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nicolerobinn/font-zip.git",
+  "author": "Nick <cweb130@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fontmin": "^0.9.9"
+  }
+}
